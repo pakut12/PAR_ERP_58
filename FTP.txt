@@ -1,0 +1,15 @@
+---------FTP PAR_ERP_58----------
+{
+    "name": "PAR_ERP_21",
+    "host": "10.200.15.127",
+    "protocol": "ftp",
+    "port": 21,
+    "username": "biz",
+    "password": "biz_erp",
+    "remotePath": "/",
+    "context": "PAR_ERP_21",
+    "uploadOnSave": true,
+    "useTempFile": false,
+    "openSsh": false
+}
+-------------------------------------

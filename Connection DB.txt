@@ -1,0 +1,12 @@
+---------Connection DB------------
+Name BIZ_WORKFLOW
+Connection Name: ตามใจ
+Host: 10.200.15.126
+Port: 1521
+Service Name: ORLC
+User Name: biz_workflow
+Password: 1234567
+---------------------------------------------------
+
+ใช้ dbvever  นะครับ
+ถ้า navicat พี่เชื่อม orcal ได้ก็ใช้ navicat ก็ได้ครับ
