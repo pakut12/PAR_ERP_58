@@ -1,6 +1,6 @@
 ---------Connection DB------------
 Name BIZ_WORKFLOW
-Connection Name: ตามใจ
+Connection Name: PAR_ERP_58
 Host: 10.200.15.126
 Port: 1521
 Service Name: ORLC
